@@ -1,0 +1,9 @@
+.heading {
+color: red; /* property*/
+font-size: 14px;
+}
+
+.paragraph{
+  color: blue;/*hex code can be used (refer colorpicker)*/
+  font-family: "Roboto", sans-serif;
+}
